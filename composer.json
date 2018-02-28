@@ -1,0 +1,19 @@
+{
+    "name": "ubuntu/html",
+    "description": "Sorting",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vasilisa Vaiman",
+            "email": "vaiman.vasilisa@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "liw\\": "app"
+        }
+    }
+}
